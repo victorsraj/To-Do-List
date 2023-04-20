@@ -1,0 +1,6 @@
+{
+    "cluster": "cluster0.oavfbtc.mongodb.net/todolistDB",
+    "database": "To-Do-Items",
+    "username": "dbAdmin",
+    "password": "password12345"
+}
